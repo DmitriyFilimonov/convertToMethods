@@ -1,0 +1,16 @@
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.exe
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.deps.json
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.runtimeconfig.json
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.runtimeconfig.dev.json
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.dll
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\convertToMethods.pdb
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.AssemblyInfo.cs
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.csproj.CopyComplete
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.dll
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.pdb
+C:\Users\Kate\source\repos\convertToMethods\convertToMethods\obj\Debug\netcoreapp3.1\convertToMethods.genruntimeconfig.cache

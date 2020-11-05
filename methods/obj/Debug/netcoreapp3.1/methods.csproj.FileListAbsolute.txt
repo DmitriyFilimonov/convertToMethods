@@ -1,0 +1,9 @@
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfo.cs
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\convertToMethods\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\Kate\source\repos\convertToMethods\methods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\Kate\source\repos\convertToMethods\methods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.dll
+C:\Users\Kate\source\repos\convertToMethods\methods\obj\Debug\netcoreapp3.1\methods.pdb
